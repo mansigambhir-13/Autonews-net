@@ -1,4 +1,4 @@
-# 📰 News API
+# 📰 Auto news agents 
 
 A FastAPI-based microservice that generates research, summaries, and social media content for any news topic. It simulates a full content pipeline including research, summary, editing, and ethics review.
 
