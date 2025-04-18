@@ -1,0 +1,13 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+pydantic==2.9.2
+crewai==0.51.1
+langchain-google-genai==1.0.10
+crewai-tools==0.12.1
+python-dotenv==1.0.1
+langchain==0.1.17
+langchain-core==0.1.48
+langchain-community==0.0.36
+langchain-google-genai
+langchain-openai==0.1.6
+langchain-experimental==0.0.52
